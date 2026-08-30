@@ -34,7 +34,7 @@
 ### 📌 Featured Project
 
 **[VeriChain](https://github.com/adoreraditya/VeriChain)**
-A project by Aditya — check out the repo for details on what it does and how it's built.
+A project by Aditya and teammates larpthon for SIH 2026 — check out the repo for details on what it does and how it's built.
 
 ---
 
